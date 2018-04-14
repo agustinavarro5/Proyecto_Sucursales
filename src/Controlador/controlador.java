@@ -13,7 +13,7 @@ import javax.swing.table.DefaultTableModel;
 import vista.*;
 
 /**
- *
+ //hola
  * @author usuario
  */
 public class controlador implements ActionListener{
